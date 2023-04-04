@@ -1,6 +1,15 @@
 # Server-Side APIs: Weather Dashboard
 
-## Application Description
+# Table of Contents
+* [Description](#description)
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Mock-Up](#mock-up)
+* [Contributions](#contributions)
+* [Questions](#questions)
+* [License](#license)
+
+## Description
 
 Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. This challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. The application features a search option for a specific city along with a list of cities from the search history. The weather dashboard will also feature a five day weather forecast and current weather conditions for a given city.
 
@@ -69,7 +78,20 @@ https://kaitlynatif.github.io/Weather_Forecast_Dashboard/
 URL to GitHub repository:
 https://github.com/kaitlynatif/Weather_Forecast_Dashboard/
 
+## Questions
+
 For any questions, please contact me at kaitlynatif90@hotmail.com
+
+## Contributions
+### Credits and Helpful Resources Used to Create this Application
+
+* [Stack Overflow](https://stackoverflow.com/questions/49640174/building-a-5-day-forecast-using-open-weather-api-ajax-and-js)
+* [MDN Web Docs: Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+* [MDN Web Docs: Control Flow and Error Handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+* [Open Weather Map Overview](https://rapidapi.com/blog/openweathermap-api-overview/javascript/)
+* [Video Tutorial to Create a Five Day Weather Forecast Dashboard using JavaScript](https://youtu.be/QEu8_5bYm-w)
+* [JavaScript Weather App Tutorial Using Open Weather Map API for Beginners](https://youtu.be/GXrDEA3SIOQ)
+* [GitHub: hhealing123](https://github.com/hhealing123)
 
 ## License
 
